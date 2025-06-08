@@ -176,7 +176,7 @@ export default function App() {
                 </p>
                 <div className="cta-button" onClick={() => {
                   // App download link for the latest APK
-                  const downloadUrl = 'https://github.com/murkhneon14/splitx-app/releases/download/v1.0.0/app-release.apk';
+                  const downloadUrl = 'https://github.com/murkhneon14/splitx-app/releases/download/v1.1.0/app-release.apk';
                   window.open(downloadUrl, '_blank');
                 }}>
                   <span className="pixel-text">👉 Download now and split smart 💡</span>
