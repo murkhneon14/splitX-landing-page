@@ -175,8 +175,8 @@ export default function App() {
                   But no more "tu de dena baad mein"!
                 </p>
                 <div className="cta-button" onClick={() => {
-                  // Replace this URL with your actual app download link
-                  const downloadUrl = 'https://example.com/download/splitx-app';
+                  // App download link for the latest APK
+                  const downloadUrl = 'https://github.com/murkhneon14/splitx-app/releases/download/v1.0.0/app-release.apk';
                   window.open(downloadUrl, '_blank');
                 }}>
                   <span className="pixel-text">👉 Download now and split smart 💡</span>
