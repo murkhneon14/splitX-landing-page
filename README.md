@@ -1,28 +1,52 @@
-# SplitX Retro-Futuristic Landing Page
-  
-This is a project built with [Chef](https://chef.convex.dev) using [Convex](https://convex.dev) as its backend.
-  
-This project is connected to the Convex deployment named [`academic-rooster-55`](https://dashboard.convex.dev/d/academic-rooster-55).
-  
-## Project structure
-  
-The frontend code is in the `app` directory and is built with [Vite](https://vitejs.dev/).
-  
-The backend code is in the `convex` directory.
-  
-`npm run dev` will start the frontend and backend servers.
+# SplitX Landing Page 🌐
 
-## App authentication
+This is the official landing page for the **SplitX** mobile application — a smart, simple, and elegant expense-splitting app for groups. This website provides a preview of features, benefits, and an easy way for users to explore the app and (soon) download it.
 
-Chef apps use [Convex Auth](https://auth.convex.dev/) with Anonymous auth for easy sign in. You may wish to change this before deploying your app.
+---
 
-## Developing and deploying your app
+## 🚀 Live Website
 
-Check out the [Convex docs](https://docs.convex.dev/) for more information on how to develop with Convex.
-* If you're new to Convex, the [Overview](https://docs.convex.dev/understanding/) is a good place to start
-* Check out the [Hosting and Deployment](https://docs.convex.dev/production/) docs for how to deploy your app
-* Read the [Best Practices](https://docs.convex.dev/understanding/best-practices/) guide for tips on how to improve you app further
+👉 Visit now: [https://splitx-gold.vercel.app](https://splitx-gold.vercel.app)
 
-## HTTP API
+---
 
-User-defined http routes are defined in the `convex/router.ts` file. We split these routes into a separate file from `convex/http.ts` to allow us to prevent the LLM from modifying the authentication routes.
+## 📌 Purpose
+
+This site serves as a **marketing page** for:
+- Highlighting features of the SplitX app
+- Directing users to download from the Play Store (coming soon)
+- Giving a web-based sneak peek at the app’s design and experience
+
+---
+
+## 🖥️ Tech Stack
+
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6+)**
+- **TypeScript**
+- **Responsive Design**
+
+---
+
+## 📸 Preview
+
+> You can add screenshots here of the app UI or the landing page itself.
+
+| Landing Page |
+|--------------|
+| ![Landing](![image](https://github.com/user-attachments/assets/10677f93-2d23-489b-bdf9-a6a9a7ed7d87) |
+
+---
+
+## 🛠️ Getting Started
+
+To run locally:
+
+```bash
+git clone https://github.com/your-username/splitx-landing.git
+cd splitx-landing
+npm install
+npm run dev
+
+
