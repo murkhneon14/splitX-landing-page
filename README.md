@@ -36,7 +36,8 @@ This site serves as a **marketing page** for:
 | Landing Page |
 |--------------|
 | ![Landing]![image](https://github.com/user-attachments/assets/10677f93-2d23-489b-bdf9-a6a9a7ed7d87) |
-![image](https://github.com/user-attachments/assets/3d067ace-64ea-40ac-aeba-585d0abd5eed)
+![image](https://github.com/user-attachments/assets/840d4cb2-d3c1-423f-9511-44af42ed5639)
+
 
 
 ---
